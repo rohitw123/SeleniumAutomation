@@ -9,5 +9,8 @@ dfagfjhsbcjhsb
 	fsnfsfnnc sfjsyi
 
 	if(i:0,i<10,i++)
+	fgufeuf
+	hfuhffuifu
+	fhuewihfufh
 
 }
